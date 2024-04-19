@@ -10,4 +10,4 @@ screenshot.py => For Run ===> python screenshot.py
 
 Required Packages For python ===> pyautogui
 
-pyautogui ==> to install => pip install pyautogui
+pyautogui ===> to install => pip install pyautogui

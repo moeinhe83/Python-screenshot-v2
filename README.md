@@ -8,6 +8,6 @@ Description Of Files:
 
 screenshot.py => For Run ===> python screenshot.py
 
-Required packages For python ===> pyautogui
+Required Packages For python ===> pyautogui
 
 pyautogui ==> to install => pip install pyautogui
